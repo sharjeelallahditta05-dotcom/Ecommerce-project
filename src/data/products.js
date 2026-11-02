@@ -1,0 +1,12 @@
+const products = [
+  { id: 1, name: "Classic White Sneakers", category: "Fashion", price: 3499, rating: 4.8, badge: "Popular", image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=85", description: "Comfortable everyday sneakers with a clean, modern look." },
+  { id: 2, name: "Wireless Headphones", category: "Electronics", price: 5999, rating: 4.7, badge: "Best seller", image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=85", description: "Enjoy your favourite music with comfortable wireless headphones." },
+  { id: 3, name: "Everyday Backpack", category: "Accessories", price: 2799, rating: 4.5, badge: "", image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=85", description: "A versatile backpack for class, work, and weekend trips." },
+  { id: 4, name: "Minimal Wrist Watch", category: "Accessories", price: 4299, rating: 4.6, badge: "New", image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=85", description: "A minimal watch design that fits casual and formal outfits." },
+  { id: 5, name: "Smart Phone", category: "Electronics", price: 45999, rating: 4.9, badge: "Featured", image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=85", description: "A modern smartphone for everyday communication and entertainment." },
+  { id: 6, name: "Cotton Casual T-Shirt", category: "Fashion", price: 1499, rating: 4.4, badge: "", image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=85", description: "A soft cotton T-shirt for relaxed everyday wear." },
+  { id: 7, name: "Desk Lamp", category: "Home", price: 2199, rating: 4.3, badge: "", image: "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=85", description: "A stylish lamp to brighten up your study or work desk." },
+  { id: 8, name: "Travel Water Bottle", category: "Home", price: 999, rating: 4.2, badge: "Value pick", image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=85", description: "A reusable bottle to keep water close while you're on the go." }
+];
+
+export default products;
